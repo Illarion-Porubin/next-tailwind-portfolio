@@ -82,9 +82,19 @@ export const Skill_data = [
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/discord.svg",
+      name: "Telegram",
+      src: "/Telegram.svg",
       href: "http://t.me/illarion123"
+    },
+    {
+      name: "GitHub",
+      src: "/GitHub.svg",
+      href: "https://github.com/Illarion-Porubin"
+    },
+    {
+      name: "Post",
+      src: "/Post.svg",
+      href: "mailto:lars.mywork@gmail.com"
     },
   ];
   
