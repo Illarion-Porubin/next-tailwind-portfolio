@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="w-full flex flex-col items-center justify-center m-auto">
         <div className="w-full h-full flex flex-row items-center justify-around flex-wrap z-20">
           <div className="w-[600px] h-auto flex flex-col items-center justify-start">
-            <div className="font-bold text-[16px]">Contacts</div>
+            <div className="font-bold text-[16px]">Контакты</div>
             <div className="flex flex-col items-center md:flex-row w-full h-auto justify-around my-10">
               <a
                 className="flex flex-row items-center my-[15px] cursor-pointer"

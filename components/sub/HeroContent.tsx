@@ -32,13 +32,11 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="flex flex-col gap-6 mt-6 text-4xl md:text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
-          <span>
-            Providing
+          <span className="text-[28px] sm:text-[48px]">
+          Full Stack
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              {" "}
-              the best{" "}
+              Developer   
             </span>
-            project exprience
           </span>
         </motion.div>
 
@@ -46,8 +44,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Hi! I&apos;m a Full Stack Developer with frontend and backend development experience.
-          Check out my projects and skills.
+          Привет, я Full Stack Developer с опытом разработки фронтенда и бэкенда. Создаю сайты и приложения различной сложности. Ознакомьтесь с моими проектами и навыками.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
