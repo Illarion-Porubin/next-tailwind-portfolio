@@ -32,8 +32,7 @@ const AboutMe = () => {
             <div className="text-sm text-gray-400 my-5 max-w-[600px] h-auto text-center break-words lg:text-right lg:text-lg"
             style={{wordBreak: "break-word"}}
             >
-              Привет! Меня зовут Илларион, мне 28 лет, и я Full Stack разработчик. 
-              <br/>
+              Привет! Меня зовут Илларион, мне 28 лет, и я Full Stack разработчик.
               Я занимаюсь веб-разработкой почти 5 лет, за это время было создано множество проектов различной сложности, начиная от одностраничника с использованием Gulp и заканчивая интернет-магазином с использованием: React, Redux, Redux-toolkit, Redux-persist, React-router-dom, Axios, MySQL, Sequelize, Passport-google-oauth20.
             </div>
         </div>
