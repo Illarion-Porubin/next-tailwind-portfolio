@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="grid grid-cols-1 md:flex-row gap-10 px-10 z-20 sm:grid-cols-2 xl:grid-cols-3">
         <ProjectCard
-          link="https://react-test-bothub.netlify.app/"
+          link="https://illarion-porubin.github.io/react-bothub-chat/"
           src="/BotChat-min.png"
           title="Чат-бот"
           description="Это web приложение на Next.js, в котором подключен чат-бот Gemini. Вы можете с ним пообщаться на интересующие вас темы."
