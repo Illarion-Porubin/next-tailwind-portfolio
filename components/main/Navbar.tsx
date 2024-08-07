@@ -64,10 +64,10 @@ const Navbar = () => {
                 height={20}
               />
             </a>
-            <a href={"Post"} target="_blank">
+            <a href={"mailto:lars.mywork@gmail.com"} target="_blank">
               <Image
                 src={"/Post.svg"} 
-                alt={"mailto:lars.mywork@gmail.com"}
+                alt={"Post"}
                 width={26}
                 height={28}
               />
