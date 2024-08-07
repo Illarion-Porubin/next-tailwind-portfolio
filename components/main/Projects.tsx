@@ -13,37 +13,37 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:flex-row gap-10 px-10 z-20 sm:grid-cols-2 xl:grid-cols-3">
         <ProjectCard
           link="https://react-test-bothub.netlify.app/"
-          src="/Bot-chat.png"
+          src="/BotChat-min.png"
           title="Чат-бот"
           description="Это web приложение на Next.js, в котором подключен чат-бот Gemini. Вы можете с ним пообщаться на интересующие вас темы."
         />
         <ProjectCard
           link="https://illarion-porubin.github.io/react-pizza-mockapi-v2/"
-          src="/Pizza-v2-0-min.png"
+          src="/Pizza-min.png"
           title="Пицерия"
           description="Этот проект посвящен онлайн-пиццерии. Здесь вы можете ознакомиться с ассортиментом и выбрать желаемую пиццу."
         />
         <ProjectCard
           link="https://illarion-porubin.github.io/react-online-kitchen/"
-          src="/Online-kitchen-min.png"
+          src="/OnlineKitchen-min.png"
           title="Онлайн рецепты"
           description="Здесь собрано множество рецептов из разных стран, и вы можете прочитать их или посмотреть на Youtube."
         />
         <ProjectCard
           link="https://illarion-porubin.github.io/react-book-app/"
-          src="/Virtual-Library-min.png"
+          src="/VirtualLibrary-min.png"
           title="Виртуальная библиотека"
           description="Онлайн-библиотека с большим количеством книг, где вы можете найти интересующую вас книгу и узнать о ней что-нибудь интересное."
         />
         <ProjectCard
           link="https://illarion-porubin.github.io/landing__go-surf/app/index.html"
-          src="/Go-serf.png"
+          src="/Goserf-min.png"
           title="Тур по серфингу"
           description="Этот проект посвящен туру по серфингу, если хотите узнать где самые лучшие пляжи и самые большие волны, то переходите по ссылке."
         />
         <ProjectCard
           link="https://illarion-porubin.github.io/landing__activebox/"
-          src="/Studio.png"
+          src="/Studio-min.png"
           title="Студия"
           description="Landing page — «посадочная страница». Макет посвящен студии, будь-то дизайн, веб или что ещё. Это небольшой проект с интересным дизайном."
         />
