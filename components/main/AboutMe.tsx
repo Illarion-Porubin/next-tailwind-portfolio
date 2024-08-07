@@ -21,7 +21,7 @@ const AboutMe = () => {
             <div className="w-auto h-full flex justify-center items-center py-10 lg:pr-10"
             >
                 <Image
-                src="/proger5.png"
+                src="/Proger-min.png"
                 alt="photo"
                 height={420}
                 width={420} 
