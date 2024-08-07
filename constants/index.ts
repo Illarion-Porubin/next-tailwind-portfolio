@@ -87,8 +87,8 @@ export const Skill_data = [
       href: "http://t.me/illarion123"
     },
     {
-      name: "GitHub",
-      src: "/GitHub.svg",
+      name: "Github",
+      src: "/Github.svg",
       href: "https://github.com/Illarion-Porubin"
     },
     {

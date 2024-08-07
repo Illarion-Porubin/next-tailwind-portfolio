@@ -17,7 +17,7 @@ const Footer = () => {
                 target="_blank"
               >
                 <Image
-                  src="/Telegram1.svg"
+                  src="/Telegram.svg"
                   alt="telegram"
                   height={20}
                   width={20}
@@ -31,7 +31,7 @@ const Footer = () => {
                 target="_blank"
               >
                 <Image
-                  src="/Github1.svg"
+                  src="/Github.svg"
                   alt="github"
                   height={20}
                   width={20}
@@ -45,7 +45,7 @@ const Footer = () => {
                 target="_blank"
               >
                 <Image
-                  src="/Post1.svg"
+                  src="/Post.svg"
                   alt="Post"
                   height={20}
                   width={20}

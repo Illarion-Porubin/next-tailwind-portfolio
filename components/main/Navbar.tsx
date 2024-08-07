@@ -48,17 +48,30 @@ const Navbar = () => {
 
         <div className="flex items-center w-auto h-auto justify-between">
           <div className="hidden md:flex flex-row gap-5">
-            {Socials.map((social) => (
-              <a href={social.href} key={social.name} target="_blank">
-                <Image
-                  src={social.src}
-                  alt={social.name}
-                  key={social.name}
-                  width={24}
-                  height={24}
-                />
-              </a>
-            ))}
+            <a href={"https://t.me/illarion123"} target="_blank">
+              <Image
+                src={"/Telegram.svg"}
+                alt={"Telegram.svg"}
+                width={20}
+                height={20}
+              />
+            </a>
+            <a href={"https://github.com/Illarion-Porubin"} target="_blank">
+              <Image
+                src={"/Github.svg"}
+                alt={"Github"}
+                width={20}
+                height={20}
+              />
+            </a>
+            <a href={"Post"} target="_blank">
+              <Image
+                src={"/Post.svg"}
+                alt={"mailto:lars.mywork@gmail.com"}
+                width={26}
+                height={28}
+              />
+            </a>
           </div>
           {open ? (
             <XMarkIcon
