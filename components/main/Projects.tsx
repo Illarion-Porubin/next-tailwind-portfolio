@@ -15,7 +15,7 @@ const Projects = () => {
           link="https://illarion-porubin.github.io/react-bothub-chat/"
           src="/BotChat-min.png"
           title="Чат-бот"
-          description="Это web приложение на Next.js, в котором подключен чат-бот Gemini. Вы можете с ним пообщаться на интересующие вас темы."
+          description="Это web приложение на React.js, в котором подключен чат-бот Gemini. Вы можете с ним пообщаться на интересующие вас темы."
         />
         <ProjectCard
           link="https://illarion-porubin.github.io/react-pizza-mockapi-v2/"
