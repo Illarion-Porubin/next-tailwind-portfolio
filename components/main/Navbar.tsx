@@ -35,7 +35,7 @@ const Navbar = () => {
           md:px-[20px] md:py-[10px] md:rounded-full text-gray-200 transition-all`}
           >
             <a href="#projects" className="cursor-pointer">
-              Прокты
+              Проекты
             </a>
             <a href="#about-me" className="cursor-pointer">
               Обо мне
